@@ -8,7 +8,7 @@
 </p>
 <br>
 <h2 id="sobre">Sobre</h2>
-<h3>Esse foi um projeto foi desenvolvido com base no que aprendi no curso Desenvolvedor Full Stack do <a href="https://www.devclub.com.br/">DevClub</a> com foco em JavaScript HTML e CSS e IA para construir um tradutor.</h3>
+<h3>Este projeto foi desenvolvido com base no que aprendi no curso Desenvolvedor Full Stack do <a href="https://www.devclub.com.br/">DevClub</a> com foco em JavaScript HTML e CSS e IA para construir um tradutor.</h3>
 <br>
 <h2 id="tecnologias">Tecnologias Utilizadas</h2>
 <ul>
