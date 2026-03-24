@@ -11,11 +11,13 @@
 <h3>Este projeto foi desenvolvido com base no que aprendi no curso Desenvolvedor Full Stack do <a href="https://www.devclub.com.br/">DevClub</a> com foco em JavaScript HTML e CSS e IA para construir um tradutor.</h3>
 <br>
 <h2 id="tecnologias">Tecnologias Utilizadas</h2>
+<h2>
 <ul>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+</h2>
 <br>
 <h2 id="mockup">Mockup</h2>
 <img src="https://github.com/Jeff-Benini/Tradutor/blob/main/img/Mockup%20(1).png?raw=true"/>
